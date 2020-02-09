@@ -27,6 +27,10 @@ Route::get('/petition/my_petition_list', function () {
     return view('my_petition_list');
 });
 
+Route::get('/petition/petition-detail', function () {
+    return view('petitions-detail');
+});
+
 Route::get('/petition/petition-list', function () {
     return view('browse');
 });
@@ -38,6 +42,27 @@ Route::get('/edit-petition', function () {
 Route::get('/edit-profile', function () {
     return view('edit-profile');
 });
+
+Route::get('/information/about-us', function () {
+    return view('about');
+});
+
+Route::get('/information/term-and-condition', function () {
+    return view('Terms-service');
+});
+
+Route::get('/information/privacy-policy', function () {
+    return view('privacy-policy');
+});
+
+Route::get('/topics-petition', function () {
+    return view('topics_petition');
+});
+
+Route::get('/support', function () {
+    return view('support');
+});
+
 
 
 

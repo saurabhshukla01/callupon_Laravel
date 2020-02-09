@@ -18,7 +18,7 @@
                         </div>
                         <div class="card-body">
                            <h4 class="card-title">Andhra Pradesh Announces Mahila Mitra for Domestic Violence Survivors</h4>
-                           <p class="card-text">Domestic Violence survivor Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to replicate it across the state. Domestic Violence survivor Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to replicate it across the state. <a href="" class="text-danger">Read More...</a></p>
+                           <p class="card-text">Domestic Violence survivor Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to replicate it across the state. Domestic Violence survivor Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to replicate it across the state. <a href="http://localhost/callupon/petition/petition-detail" class="text-danger">Read More...</a></p>
                         </div>
                      </div>
                      <div class="card-footer">
@@ -62,7 +62,10 @@
                         </div>
                         <div class="card-body">
                            <h4 class="card-title">CNN News 18 Commits to Gender-Sensitive Reporting</h4>
-                           <p class="card-text">CNN News 18 responded to Ankita Anand’s campaign for #GenderSensitiveReporting by removing all stock images in its database that show survivors as scared and helpless. Domestic Violence survivor Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to replicate it across the state. <a href="" class="text-danger">Read More...</a></p>
+                           <p class="card-text">CNN News 18 responded to Ankita Anand’s campaign for #GenderSensitiveReporting by removing all
+                           stock images in its database that show survivors as scared and helpless. Domestic Violence survivor
+                           Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to
+                           replicate it across the state. <a href="http://localhost/callupon/petition/petition-detail" class="text-danger">Read More...</a></p>
                         </div>
                      </div>
                      <div class="card-footer">
@@ -106,7 +109,7 @@
                         </div>
                         <div class="card-body">
                            <h4 class="card-title">No More Open Urination at Mumbai Marathon!</h4>
-                           <p class="card-text">Sweta started a Callupon.org petition asking Mumbai Marathon organisers to address the problem of participants urinating on the sea link during the event. The organisers have said they will strongly take this up! Domestic Violence survivor Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to replicate it across the state. <a href="" class="text-danger">Read More...</a></p>
+                           <p class="card-text">Sweta started a Callupon.org petition asking Mumbai Marathon organisers to address the problem of participants urinating on the sea link during the event. The organisers have said they will strongly take this up! Domestic Violence survivor Dr. Keerthi Bollineni started this petition for police sensitisation. Andhra CM Naidu responded agreeing to replicate it across the state. <a href="http://localhost/callupon/petition/petition-detail" class="text-danger">Read More...</a></p>
                         </div>
                      </div>
                      <div class="card-footer">
@@ -171,7 +174,7 @@
                   <div class="col-md-8">
                      <small>Petition to Prasoon Joshi, Prakash Javadekar</small>
                      <h5 class="media-heading pt-1 font-weight-bold">On-Screen Violence Against Women And Girls Need Statutory Warnings Too</h5>
-                     <p> Smoking and drinking are not ok but hitting a woman is absolutely fine. That’s the message you get when you watch a film in India today. <small><a href="petitions-detail.html" class="text-danger font-italic">Read More...</a></small></p>
+                     <p> Smoking and drinking are not ok but hitting a woman is absolutely fine. That’s the message you get when you watch a film in India today. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
@@ -191,7 +194,7 @@
                   <div class="col-md-8">
                      <small>Petition to Prasoon Joshi, Prakash Javadekar</small>
                      <h5 class="media-heading pt-1 font-weight-bold">On-Screen Violence Against Women And Girls Need Statutory Warnings Too</h5>
-                     <p> Smoking and drinking are not ok but hitting a woman is absolutely fine. That’s the message you get when you watch a film in India today. <small><a href="" class="text-danger font-italic">Read More...</a></small></p>
+                     <p> Smoking and drinking are not ok but hitting a woman is absolutely fine. That’s the message you get when you watch a film in India today. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
@@ -211,7 +214,7 @@
                   <div class="col-md-8">
                      <small>Petition to President of India, Narendra Modi</small>
                      <h5 class="media-heading pt-1 font-weight-bold">#SaveRTI</h5>
-                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="" class="text-danger font-italic">Read More...</a></small></p>
+                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
@@ -231,7 +234,7 @@
                   <div class="col-md-8">
                      <small>Petition to President of India, Narendra Modi</small>
                      <h5 class="media-heading pt-1 font-weight-bold">#SaveRTI</h5>
-                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="" class="text-danger font-italic">Read More...</a></small></p>
+                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
@@ -251,7 +254,7 @@
                   <div class="col-md-8">
                      <small>Petition to President of India, Narendra Modi</small>
                      <h5 class="media-heading pt-1 font-weight-bold">#SaveRTI</h5>
-                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="" class="text-danger font-italic">Read More...</a></small></p>
+                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
@@ -271,7 +274,7 @@
                   <div class="col-md-8">
                      <small>Petition to President of India, Narendra Modi</small>
                      <h5 class="media-heading pt-1 font-weight-bold">#SaveRTI</h5>
-                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="" class="text-danger font-italic">Read More...</a></small></p>
+                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
@@ -291,7 +294,7 @@
                   <div class="col-md-8">
                      <small>Petition to President of India, Narendra Modi</small>
                      <h5 class="media-heading pt-1 font-weight-bold">#SaveRTI</h5>
-                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="" class="text-danger font-italic">Read More...</a></small></p>
+                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
@@ -311,7 +314,7 @@
                   <div class="col-md-8">
                      <small>Petition to President of India, Narendra Modi</small>
                      <h5 class="media-heading pt-1 font-weight-bold">#SaveRTI</h5>
-                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="" class="text-danger font-italic">Read More...</a></small></p>
+                     <p>There is a move to weaken OUR fundamental Right to Information. This will stop us from exposing corruption and getting accountability. <small><a href="http://localhost/callupon/petition/petition-detail" class="text-danger font-italic">Read More...</a></small></p>
                      <span class="mr-5 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">Mahika Banerji</small></span>
                      <span class="mr-5 pt-3 text-danger"><i class="fa fa-users" aria-hidden="true"></i> <small class="text-dark">29,047 supporters</small></span>
                   </div>
